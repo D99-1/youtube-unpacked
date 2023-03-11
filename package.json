@@ -1,0 +1,19 @@
+{
+  "name": "youtube-unpacked",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@blackamda/song_video_dl": "^1.1.0",
+    "chartjs-to-image": "^1.1.0",
+    "request": "^2.88.2",
+    "youtube-search-without-api-key": "^1.1.0",
+    "ytdl-core": "^4.11.2"
+  }
+}
